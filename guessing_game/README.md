@@ -9,7 +9,9 @@ Things to learn:
      For loop
      If/else & Else if statements
      While Loop
+     Random
 
 ### **Resources**
 String formatting using f-strings<https://realpython.com/python-f-strings/>
 Check if input is integer<https://stackoverflow.com/questions/27310631/checking-if-input-is-an-integer>
+Random<https://docs.python.org/3/library/random.html>
